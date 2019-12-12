@@ -68,8 +68,8 @@ Of course, there are plenty of other use cases:
 | ------------------------------------------ | ---------------------------- |
 | 1. Create explainer                        | N/A                          |
 | 2. Create initial draft of specification   | [Complete][spec-ed]          |
-| **3. Gather feedback and iterate design**  | [**In Progress**](#feedback) |
-| 4. Origin trial                            | Not Started                  |
+| 3. Gather feedback and iterate design      | Complete                     |
+| **4. Origin trial**                        | **In Progress**              |
 | 5. Launch                                  | Not Started                  |
 
 </div>
